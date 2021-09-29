@@ -18,15 +18,15 @@ const Nav = () => (
             <ul className={styling.menu}>
                 <li>
                     <Link href='/'>
-                        <a>Posts</a>
+                        <a>Announcements</a>
                     </Link>
                 </li>
                 
-                <li>
+                {/*<li>
                     <Link href='/authors'>
                         <a>Authors</a>
                     </Link>
-                </li>
+                </li>*/}
             </ul>
         </div>
     </nav>

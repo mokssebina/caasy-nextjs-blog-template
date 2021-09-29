@@ -28,7 +28,7 @@ const Main = ({ title, children }) => (
             {children}
         </main>
         
-        <Footer />
+        {/*<Footer />*/}
     </>
 );
 
